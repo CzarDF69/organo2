@@ -80,6 +80,14 @@ function App() {
         },
         {
             id: uuidv4(),
+            nome: 'CESAR TOMM',
+            cargo: 'Desenvolvedor de software',
+            imagem: 'https://www.github.com/czardf69.png',
+            time: times[0].nome,
+            favorito: false
+        },
+        {
+            id: uuidv4(),
             nome: 'JULIANA AMOASEI',
             cargo: 'Desenvolvedora de software e instrutora',
             imagem: 'https://www.alura.com.br/assets/img/lideres/juliana-amoasei.1647533644.jpeg',
@@ -107,6 +115,14 @@ function App() {
             nome: 'PAULO SILVEIRA',
             cargo: 'Hipster e CEO da Alura',
             imagem: 'https://www.alura.com.br/assets/img/lideres/paulo-silveira.1647533644.jpeg',
+            time: times[1].nome,
+            favorito: false
+        },
+        {
+            id: uuidv4(),
+            nome: 'CESAR TOMM',
+            cargo: 'Desenvolvedor de software',
+            imagem: 'https://www.github.com/czardf69.png',
             time: times[1].nome,
             favorito: false
         },
@@ -235,6 +251,14 @@ function App() {
             nome: 'PAULO SILVEIRA',
             cargo: 'Hipster e CEO da Alura',
             imagem: 'https://www.alura.com.br/assets/img/lideres/paulo-silveira.1647533644.jpeg',
+            time: times[5].nome,
+            favorito: false
+        },
+        {
+            id: uuidv4(),
+            nome: 'CESAR TOMM',
+            cargo: 'Desenvolvedor de software',
+            imagem: 'https://www.github.com/czardf69.png',
             time: times[5].nome,
             favorito: false
         },

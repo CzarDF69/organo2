@@ -5,8 +5,8 @@ const Rodape = () => {
     return (<footer className="footer">
        <section>
        <ul>
-            <li>
-                <a href="facebook.com" target="_blank">
+            {/* <li>
+                <a href="facebook.com/cesartomm" target="_blank">
                     <img src="/imagens/facebook.png" alt="" />
                 </a>
             </li>
@@ -14,9 +14,9 @@ const Rodape = () => {
                 <a href="twitter.com" target="_blank">
                     <img src="/imagens/twitter.png" alt="" />
                 </a>
-            </li>
+            </li> */}
             <li>
-                <a href="instagram.com" target="_blank">
+                <a href="https://www.instagram.com/cesar_tomm" target="_blank" rel="noreferrer">
                     <img src="/imagens/instagram.png" alt="" />
                 </a>
             </li>
@@ -27,7 +27,7 @@ const Rodape = () => {
        </section>
        <section>
         <p>
-            Desenvolvido por Alura.
+            Desenvolvido por Alura e César Tomm.
         </p>
        </section>
     </footer>)
