@@ -18,9 +18,9 @@ O resultado final foi publicado em duas plataformas em nuvem, AWS e Vercel.
 
 ## Publicações
 
-* Na AWS visite em: <https://main.d1vf1gfaf6i04m.amplifyapp.com/>
+* Na AWS visite em: <https://main.d23w3f7devvml4.amplifyapp.com/>
 
-* No Vercel visite em: <https://numero-secreto-eosin-two.vercel.app/>
+* No Vercel visite em: <https://organo-sage-mu.vercel.app/>
 
 ## Comandos usados no desenvolvimento do projeto
 
